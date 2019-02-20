@@ -1,3 +1,3 @@
 # Comp
 
-Composite solver
+Composite solver for education
